@@ -5,6 +5,6 @@ profiling tests for Pandabase and Pangres
 
 This repo shows results from some basic comparison testing of the two libraries.
 
-![comparison of pandabase & pangres - results](https://github.com/notsambeck/pandabase_profile/result.png)
+![comparison of pandabase & pangres - results](https://github.com/notsambeck/pandabase_profile/blob/master/result.png)
 
 See Jupyter notebook for methodology and code samples.
