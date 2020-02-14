@@ -1,0 +1,3 @@
+pandabase >= 0.4.5
+pangres
+matplotlib
